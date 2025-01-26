@@ -32,7 +32,7 @@ http://119.164.216.162:9901/tsfile/live/1004_1.m3u8
 http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" group-title="卫视IPV4",山东文旅
 http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
-#EXTINF:-1 tvg-id="济南新闻综合1" tvg-name="济南新闻综合1" group-title="卫视IPV4",济南新闻综合1
+#EXTINF:-1 tvg-id="济南新闻综合" tvg-name="济南新闻综合" group-title="卫视IPV4",济南新闻综合
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 
 
