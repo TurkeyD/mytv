@@ -35,17 +35,6 @@ http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
 #EXTINF:-1 tvg-id="济南新闻综合1" tvg-name="济南新闻综合1" group-title="卫视IPV4",济南新闻综合1
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 
-山东教育,http://annaxi.lw-home.com:11111/udp/239.253.254.59:8000
-山东农科,http://annaxi.lw-home.com:11111/udp/239.253.254.24:8000
-山东齐鲁,http://annaxi.lw-home.com:11111/udp/239.253.254.114:8000
-山东少儿,http://annaxi.lw-home.com:11111/udp/239.253.254.25:8000
-山东生活,http://annaxi.lw-home.com:11111/udp/239.253.254.151:8000
-山东体育,http://annaxi.lw-home.com:11111/udp/239.253.254.22:8000
-山东文旅,http://annaxi.lw-home.com:11111/udp/239.253.254.160:8000
-山东新闻,http://annaxi.lw-home.com:11111/udp/239.253.254.23:8000
-山东综艺,http://annaxi.lw-home.com:11111/udp/239.253.254.159:8000
-
-
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视IPV4",CCTV1
 http://148.135.93.213:81/live.php?id=CCTV1
