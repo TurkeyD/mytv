@@ -17,23 +17,27 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType
 http://148.135.93.213:81/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" group-title="卫视IPV4",山东教育
-http://annaxi.lw-home.com:11111/udp/239.253.254.59:8000
+http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" group-title="卫视IPV4",山东农科
-http://annaxi.lw-home.com:11111/udp/239.253.254.24:8000
+http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" group-title="卫视IPV4",山东齐鲁
-http://annaxi.lw-home.com:11111/udp/239.253.254.114:8000
-#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" group-title="卫视IPV4",山东少儿
-http://annaxi.lw-home.com:11111/udp/239.253.254.25:8000
+http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
+#EXTINF:-1 tvg-id="山东国际" tvg-name="山东国际" group-title="卫视IPV4",山东国际
+http://annaxi.lw-home.com:11111/udp/239.253.254.26:8000
 #EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" group-title="卫视IPV4",山东生活
-http://annaxi.lw-home.com:11111/udp/239.253.254.151:8000
+http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" group-title="卫视IPV4",山东体育
-http://annaxi.lw-home.com:11111/udp/239.253.254.22:8000
+http://150.138.8.143/00/SNM/CHANNEL20000003/index.m3u8
 #EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" group-title="卫视IPV4",山东文旅
-http://annaxi.lw-home.com:11111/udp/239.253.254.160:8000
+http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
 #EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" group-title="卫视IPV4",山东新闻
-http://annaxi.lw-home.com:11111/udp/239.253.254.23:8000
+http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" group-title="卫视IPV4",山东综艺
-http://annaxi.lw-home.com:11111/udp/239.253.254.159:8000
+http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-id="齐鲁高清" tvg-name="齐鲁高清" group-title="卫视IPV4",齐鲁高清
+http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="济南综合" tvg-name="济南综合" group-title="卫视IPV4",济南综合
+http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视IPV4",CCTV1
