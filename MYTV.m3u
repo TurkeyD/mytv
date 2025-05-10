@@ -55,7 +55,7 @@ http://192.168.88.1:8188/udp/239.253.242.168:8000
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="卫视IPV4",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视IPV4",凤凰中文
-https://live.tvfix.org/live/fhzw/index.m3u8
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="卫视IPV4",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="香港翡翠台" tvg-name="香港翡翠台" group-title="卫视IPV4",香港翡翠台
