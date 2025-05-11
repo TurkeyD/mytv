@@ -57,13 +57,26 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视IPV4",凤凰中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="卫视IPV4",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 #EXTINF:-1 tvg-id="香港翡翠台" tvg-name="香港翡翠台" group-title="卫视IPV4",香港翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" group-title="卫视IPV4",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp%3BwsIPSercert=8de23d0849e78e3b16ec92a2092354
-#EXTINF:-1 tvg-id="台湾中天新闻" tvg-name="台湾中天新闻" group-title="卫视IPV4",台湾中天新闻
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+#EXTINF:-1 tvg-id="台湾中天" tvg-name="台湾中天" group-title="卫视IPV4",台湾中天
+http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&amp;ct=19249&amp;tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 tvg-id="台湾三立" tvg-name="台湾三立" group-title="卫视IPV4",台湾三立
+http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&amp;ct=17874&amp;tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-id="台湾民视新闻" tvg-name="台湾民视新闻" group-title="卫视IPV4",台湾民视新闻
+http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&amp;ct=19249&amp;tsum=e3b040434ed43f12a738964a100a0e59
+#EXTINF:-1 tvg-id="台湾中视新闻" tvg-name="台湾中视新闻" group-title="卫视IPV4",台湾中视新闻
+http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 tvg-id="台湾台视新闻" tvg-name="台湾台视新闻" group-title="卫视IPV4",台湾台视新闻
+http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
+#EXTINF:-1 tvg-id="台湾东森财经新闻" tvg-name="台湾东森财经新闻" group-title="卫视IPV4",台湾东森财经新闻
+http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 tvg-id="台湾东森洋片" tvg-name="台湾东森洋片" group-title="卫视IPV4",台湾东森洋片
+http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+#EXTINF:-1 tvg-id="台湾东森电影" tvg-name="台湾东森电影" group-title="卫视IPV4",台湾东森电影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+
 
 
 #EXTM3U
