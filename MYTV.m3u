@@ -60,14 +60,15 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 #EXTINF:-1 tvg-id="香港翡翠台" tvg-name="香港翡翠台" group-title="卫视IPV4",香港翡翠台
 http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-#EXTINF:-1 tvg-id="台湾中天" tvg-name="台湾中天" group-title="卫视IPV4",台湾中天
-http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&amp;ct=19249&amp;tsum=6c292a6f51658779ced6a108f779ed35
+
+
+
 #EXTINF:-1 tvg-id="台湾三立" tvg-name="台湾三立" group-title="卫视IPV4",台湾三立
-http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&amp;ct=17874&amp;tsum=3570a8198ca0fb7ebb803807e38b33fb
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 #EXTINF:-1 tvg-id="台湾民视新闻" tvg-name="台湾民视新闻" group-title="卫视IPV4",台湾民视新闻
-http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&amp;ct=19249&amp;tsum=e3b040434ed43f12a738964a100a0e59
+http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 #EXTINF:-1 tvg-id="台湾中视新闻" tvg-name="台湾中视新闻" group-title="卫视IPV4",台湾中视新闻
-http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 #EXTINF:-1 tvg-id="台湾台视新闻" tvg-name="台湾台视新闻" group-title="卫视IPV4",台湾台视新闻
 http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
 #EXTINF:-1 tvg-id="台湾东森财经新闻" tvg-name="台湾东森财经新闻" group-title="卫视IPV4",台湾东森财经新闻
